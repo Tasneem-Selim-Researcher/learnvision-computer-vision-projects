@@ -75,17 +75,25 @@ Under the mentorship of **Tasneem Selim**, the following contributors played a p
 
 | Name            | GitHub (if available) | Contributions                                |
 |-----------------|------------------------|----------------------------------------------|
-| Aya Ehab        | [@ayaehab](#)          | Pneumonia Detection, Facial Expression Recognition |
-| Mina Assad      | [@minaassad](#)        | Skin Cancer Classification, Waste Sorting    |
-| Kirollos Emad   | [@kirollosemad](#)     | Fingerprint Recognition, Pneumonia Detection |
-| Youssef Hanna   | [@youssefhanna](#)     | Plant Disease Identification                 |
-| Mario Gamal     | [@mariogamal](#)       | Waste Sorting, Pneumonia Detection           |
+| Aya Ehab        | [@ayaehab](#)          | Pneumonia Detection, Waste Sorting           |
+| Mina Assad      | [@minaassad](#)        | Facial Expression Recognition                |
+| Kirollos Emad   | [@kirollosemad](#)     | Facial Expression Recognition                |
+| Youssef Hanna   | [@youssefhanna](#)     | Facial Expression Recognition                |
+| Mario Gamal     | [@mariogamal](#)       | Facial Expression Recognition                |
 | Youssef Awaad   | [@youssefawaad](#)     | Facial Expression Recognition                |
-| Mina Wagdy      | [@minawagdy](#)        | Skin Cancer Classification                   |
-| X               | [@x](#)                | TBD                                          |
-| Y               | [@y](#)                | TBD                                          |
-| Z               | [@z](#)                | TBD                                          |
-
+| Mina Wagdy      | [@minawagdy](#)        | Facial Expression Recognition                |
+| Ahmed Abu Seada | [@x](#)                | Skin Cancer Classification                   |
+| Rewan Yasser    | [@y](#)                | Plant Disease Identification                 |
+| Rana Ashraf     | [@y](#)                | Plant Disease Identification                 |
+| Doaa Nabil      | [@y](#)                | Plant Disease Identification                 |
+| Z               | [@z](#)                | Waste Sorting                                |
+| Z               | [@z](#)                | Waste Sorting                                |
+| Z               | [@z](#)                | Waste Sorting                                |
+| Bassem Hazem    | [@z](#)                | Fingerprint Recognition, Pneumonia Detection |
+| Amira Ahmed     | [@z](#)                | Fingerprint Recognition, Pneumonia Detection |
+| Shrouk Mohamed  | [@z](#)                | Fingerprint Recognition, Pneumonia Detection |
+| Ahmed Mamdouh   | [@z](#)                | Fingerprint Recognition, Pneumonia Detection |
+| Moataz Emad     | [@z](#)                | Fingerprint Recognition, Pneumonia Detection |
 
 To each of you: thank you for your hard work, your curiosity, and your trust in the learning process. Your contributions will continue to inspire learners and researchers around the world.
 
