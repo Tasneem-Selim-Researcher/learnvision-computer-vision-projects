@@ -75,13 +75,13 @@ Under the mentorship of **Tasneem Selim**, the following contributors played a p
 
 | Name            | GitHub (if available) | Contributions                                |
 |-----------------|------------------------|----------------------------------------------|
-| Aya Ehab        | [@ayaehab](#)          | Pneumonia Detection, Waste Sorting           |
-| Mina Assad      | [@minaassad](#)        | Facial Expression Recognition                |
-| Kirollos Emad   | [@kirollosemad](#)     | Facial Expression Recognition                |
-| Youssef Hanna   | [@youssefhanna](#)     | Facial Expression Recognition                |
-| Mario Gamal     | [@mariogamal](#)       | Facial Expression Recognition                |
-| Youssef Awaad   | [@youssefawaad](#)     | Facial Expression Recognition                |
-| Mina Wagdy      | [@minawagdy](#)        | Facial Expression Recognition                |
+| Aya Ehab        | [@ayaehab](https://github.com/AyaEhab27)          | Pneumonia Detection, Waste Sorting           |
+| Mina Assad      | [@](#)        | Facial Expression Recognition                |
+| Kirollos Emad   | [@](#)     | Facial Expression Recognition                |
+| Youssef Hanna   | [@](#)     | Facial Expression Recognition                |
+| Mario Gamal     | [@](#)       | Facial Expression Recognition                |
+| Youssef Awaad   | [@](#)     | Facial Expression Recognition                |
+| Mina Wagdy      | [@](#)        | Facial Expression Recognition                |
 | Ahmed Abu Seada | [@Ahmed Abu Seada](https://github.com/ahmedaboseada) | Skin Cancer Classification                   |
 | Rewan Yasser    | [@y](#)                | Plant Disease Identification                 |
 | Rana Ashraf     | [@y](#)                | Plant Disease Identification                 |
