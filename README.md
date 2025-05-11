@@ -91,3 +91,18 @@ Their contributions, enthusiasm, and commitment to learning played a key role in
 **Tasneem Selim**  
 Computer Vision & AI Mentor  
 [LinkedIn](#) | [GitHub](#) | [Google Scholar](#)
+
+## 👩‍💻 Author
+
+**Tasneem Selim**  
+AI Researcher | Computer Vision Mentor | PhD Applicant  
+- 🔬 [Google Scholar](#)  
+- 💼 [LinkedIn](#)  
+- 🌐 [Personal Website / Portfolio](#)  
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.  
+Intended for **educational** and **research** purposes.
