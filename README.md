@@ -19,6 +19,8 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 ## 📂 Project Categories & Descriptions
 
 ### 🩺 Healthcare and Medical Imaging (3 Projects)
+- Dataset
+
 | Project | Description | Accuracy |
 |--------|-------------|----------|
 | **Pneumonia Detection** | Chest X-rays using custom CNN & Xception | 93% (CNN), 95.66% (Xception) |
@@ -28,6 +30,8 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 ---
 
 ### 🌱 Sustainability and Environmental Conservation (3 Projects)
+- Dataset
+
 | Project | Description | Accuracy |
 |--------|-------------|----------|
 | **Waste Sorting** | DenseNet and EfficientNet B0 for material classification | 91% / 92.76% |
@@ -36,6 +40,8 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 ---
 
 ### 😊 Human-Centered AI (1 Project)
+- Dataset
+
 | Project | Description | Accuracy |
 |--------|-------------|----------|
 | **Facial Expression Recognition** | Custom CNN trained on CK+ dataset | 96% |
@@ -43,6 +49,8 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 ---
 
 ### 🧬 Biometrics (One-Shot Learning) (1 Project)
+- Dataset
+
 | Project | Description | Accuracy |
 |--------|-------------|----------|
 | **Fingerprint Recognition** | Siamese network for one-shot fingerprint matching | 99% |
