@@ -93,7 +93,6 @@ This repository is the result of collaborative efforts under the mentorship of *
 AI Researcher | Computer Vision Mentor | PhD Applicant    
 
 - 🔬 [Google Scholar](https://scholar.google.com/citations?user=qrbLDz4AAAAJ&hl=en)  
-- 💼 [LinkedIn](#)  
 
 ---
 
