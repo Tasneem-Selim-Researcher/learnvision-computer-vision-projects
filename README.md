@@ -19,7 +19,7 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 ## 📂 Project Categories & Descriptions
 
 ### 🩺 Healthcare and Medical Imaging (3 Projects)
-- Dataset: (Chest X-Ray Images - Pneumonia)[https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia]
+- Dataset: [Chest X-Ray Images - Pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 - Dataset: (Skin Cancer MNIST- HAM10000)[https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000] 
 
 | Project | Description | Accuracy |
