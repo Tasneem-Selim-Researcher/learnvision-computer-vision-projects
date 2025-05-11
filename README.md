@@ -56,3 +56,38 @@ Welcome to **LearnVision**, a curated collection of **9 open-source computer vis
 1. Clone the repository:
    ```bash
    git clone https://github.com/Tasneem-Selim-PhD/learnvision-computer-vision-projects.git
+
+   
+# 👥 Contributors
+
+This repository is the result of collaborative efforts under the mentorship of **Tasneem Selim**. The following students contributed to various projects, showcasing their dedication and hands-on learning in computer vision.
+
+## 🙏 Acknowledgements
+This repository was made possible thanks to the dedication and hard work of the talented students I had the privilege to mentor. Special thanks to:
+
+Aya Ehab, Mina Assad, Kirollos Emad, Youssef Hanna, Mario Gamal, Youssef Awaad, Mina Wagdy, X, Y, Z
+
+Their contributions, enthusiasm, and commitment to learning played a key role in shaping these projects. This repository reflects not just technical results, but a shared journey of growth, experimentation, and collaboration.
+
+## 🎓 Student Contributors
+
+| Name            | GitHub (if available) | Contributions                                |
+|-----------------|------------------------|----------------------------------------------|
+| Aya Ehab        | [@ayaehab](#)          | Pneumonia Detection, Facial Expression Recognition |
+| Mina Assad      | [@minaassad](#)        | Skin Cancer Classification, Waste Sorting    |
+| Kirollos Emad   | [@kirollosemad](#)     | Fingerprint Recognition, Pneumonia Detection |
+| Youssef Hanna   | [@youssefhanna](#)     | Plant Disease Identification                 |
+| Mario Gamal     | [@mariogamal](#)       | Waste Sorting, Pneumonia Detection           |
+| Youssef Awaad   | [@youssefawaad](#)     | Facial Expression Recognition                |
+| Mina Wagdy      | [@minawagdy](#)        | Skin Cancer Classification                   |
+| X               | [@x](#)                | TBD                                          |
+| Y               | [@y](#)                | TBD                                          |
+| Z               | [@z](#)                | TBD                                          |
+
+
+---
+
+**Mentor**:  
+**Tasneem Selim**  
+Computer Vision & AI Mentor  
+[LinkedIn](#) | [GitHub](#) | [Google Scholar](#)
