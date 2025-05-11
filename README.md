@@ -89,7 +89,7 @@ Under the mentorship of **Tasneem Selim**, the following contributors played a p
 | Ahmed Mahmoud   | [@z](#)                | Waste Sorting                                |
 | Belal Adel      | [@BelalAdel](https://github.com/CW4Sniper)                | Waste Sorting                                |
 | Omar Mohammed   | [@z](#)                | Waste Sorting                                |
-| Zaid Mohammed   | [@z](#)                | Waste Sorting                                |
+| Zaid Nagah   | [@ziadNagah](https://github.com/ziad-nagah)                | Waste Sorting                                |
 | Bassem Hazem    | [@z](#)                | Fingerprint Recognition, Pneumonia Detection |
 | Amira Ahmed     | [@z](#)                | Fingerprint Recognition, Pneumonia Detection |
 | Shrouk Mohamed  | [@z](#)                | Fingerprint Recognition, Pneumonia Detection |
