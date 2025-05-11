@@ -11,9 +11,7 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 
 ## 🧠 Why LearnVision?
 
-- ✅ Learn by doing: Real-world CV challenges with clean, reproducible code  
-- ✅ Academic mentorship: Developed through guided supervision  
-- ✅ Portfolio-ready: Ideal for PhD/grad school applications and classroom use  
+- ✅ Learn by doing: Real-world CV challenges with clean, reproducible code    
 - ✅ Metrics, evaluations, confusion matrices, and training logs included
 
 ---
