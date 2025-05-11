@@ -19,7 +19,8 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 ## 📂 Project Categories & Descriptions
 
 ### 🩺 Healthcare and Medical Imaging (3 Projects)
-- Dataset
+- Dataset: (Chest X-Ray Images - Pneumonia) [https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia]
+- Dataset: (Skin Cancer MNIST- HAM10000) [https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000] 
 
 | Project | Description | Accuracy |
 |--------|-------------|----------|
@@ -30,7 +31,8 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 ---
 
 ### 🌱 Sustainability and Environmental Conservation (3 Projects)
-- Dataset
+- Dataset: (PlantVillage Dataset)[https://www.kaggle.com/datasets/emmarex/plantdisease]
+- Dataset: (Garbage Classification)[https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification]
 
 | Project | Description | Accuracy |
 |--------|-------------|----------|
@@ -40,7 +42,7 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 ---
 
 ### 😊 Human-Centered AI (1 Project)
-- Dataset
+- Dataset: (CK+ Dataset)[https://www.kaggle.com/datasets/davilsena/ckdataset]
 
 | Project | Description | Accuracy |
 |--------|-------------|----------|
@@ -49,7 +51,7 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 ---
 
 ### 🧬 Biometrics (One-Shot Learning) (1 Project)
-- Dataset
+- Dataset: (Sokoto Coventry Fingerprint Dataset - SOCOFing)[https://www.kaggle.com/datasets/ruizgara/socofing]
 
 | Project | Description | Accuracy |
 |--------|-------------|----------|
