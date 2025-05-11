@@ -76,25 +76,25 @@ Under the mentorship of **Tasneem Selim**, the following contributors played a p
 | Name            | GitHub (if available) | Contributions                                |
 |-----------------|------------------------|----------------------------------------------|
 | Aya Ehab        | [@ayaehab](https://github.com/AyaEhab27)          | Pneumonia Detection, Waste Sorting           |
-| Mina Assad      | [@](#)        | Facial Expression Recognition                |
-| Kirollos Emad   | [@](#)     | Facial Expression Recognition                |
-| Youssef Hanna   | [@](#)     | Facial Expression Recognition                |
-| Mario Gamal     | [@](#)       | Facial Expression Recognition                |
-| Youssef Awaad   | [@](#)     | Facial Expression Recognition                |
-| Mina Wagdy      | [@](#)        | Facial Expression Recognition                |
+| Mina Assad      |        | Facial Expression Recognition                |
+| Kirollos Emad   |     | Facial Expression Recognition                |
+| Youssef Hanna   |      | Facial Expression Recognition                |
+| Mario Gamal     |        | Facial Expression Recognition                |
+| Youssef Awaad   |      | Facial Expression Recognition                |
+| Mina Wagdy      |         | Facial Expression Recognition                |
 | Ahmed Abu Seada | [@AhmedAbuSeada](https://github.com/ahmedaboseada) | Skin Cancer Classification                   |
-| Rewan Yasser    | [@y](#)                | Plant Disease Identification                 |
-| Rana Ashraf     | [@y](#)                | Plant Disease Identification                 |
-| Doaa Nabil      | [@y](#)                | Plant Disease Identification                 |
-| Ahmed Mahmoud   | [@z](#)                | Waste Sorting                                |
+| Rewan Yasser    |                 | Plant Disease Identification                 |
+| Rana Ashraf     |                 | Plant Disease Identification                 |
+| Doaa Nabil      |                 | Plant Disease Identification                 |
+| Ahmed Mahmoud   |                 | Waste Sorting                                |
 | Belal Adel      | [@BelalAdel](https://github.com/CW4Sniper)                | Waste Sorting                                |
-| Omar Mohammed   | [@z](#)                | Waste Sorting                                |
+| Omar Mohammed   |                 | Waste Sorting                                |
 | Zaid Nagah   | [@ziadNagah](https://github.com/ziad-nagah)                | Waste Sorting                                |
-| Bassem Hazem    | [@z](#)                | Fingerprint Recognition, Pneumonia Detection |
-| Amira Ahmed     | [@z](#)                | Fingerprint Recognition, Pneumonia Detection |
-| Shrouk Mohamed  | [@z](#)                | Fingerprint Recognition, Pneumonia Detection |
-| Ahmed Mamdouh   | [@z](#)                | Fingerprint Recognition, Pneumonia Detection |
-| Moataz Emad     | [@z](#)                | Fingerprint Recognition, Pneumonia Detection |
+| Bassem Hazem    |                 | Fingerprint Recognition, Pneumonia Detection |
+| Amira Ahmed     |                 | Fingerprint Recognition, Pneumonia Detection |
+| Shrouk Mohamed  |                 | Fingerprint Recognition, Pneumonia Detection |
+| Ahmed Mamdouh   |                 | Fingerprint Recognition, Pneumonia Detection |
+| Moataz Emad     | []()                | Fingerprint Recognition, Pneumonia Detection |
 
 To each of you: thank you for your hard work, your curiosity, and your trust in the learning process. Your contributions will continue to inspire learners and researchers around the world.
 
