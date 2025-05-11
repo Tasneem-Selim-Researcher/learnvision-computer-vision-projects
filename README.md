@@ -82,12 +82,12 @@ Under the mentorship of **Tasneem Selim**, the following contributors played a p
 | Mario Gamal     | [@](#)       | Facial Expression Recognition                |
 | Youssef Awaad   | [@](#)     | Facial Expression Recognition                |
 | Mina Wagdy      | [@](#)        | Facial Expression Recognition                |
-| Ahmed Abu Seada | [@Ahmed Abu Seada](https://github.com/ahmedaboseada) | Skin Cancer Classification                   |
+| Ahmed Abu Seada | [@AhmedAbuSeada](https://github.com/ahmedaboseada) | Skin Cancer Classification                   |
 | Rewan Yasser    | [@y](#)                | Plant Disease Identification                 |
 | Rana Ashraf     | [@y](#)                | Plant Disease Identification                 |
 | Doaa Nabil      | [@y](#)                | Plant Disease Identification                 |
 | Ahmed Mahmoud   | [@z](#)                | Waste Sorting                                |
-| Belal Abd Elshahat| [@z](#)                | Waste Sorting                                |
+| Belal Adel      | [@BelalAdel](https://github.com/CW4Sniper)                | Waste Sorting                                |
 | Omar Mohammed   | [@z](#)                | Waste Sorting                                |
 | Zaid Mohammed   | [@z](#)                | Waste Sorting                                |
 | Bassem Hazem    | [@z](#)                | Fingerprint Recognition, Pneumonia Detection |
