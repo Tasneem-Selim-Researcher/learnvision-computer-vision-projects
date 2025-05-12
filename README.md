@@ -80,25 +80,25 @@ Under the mentorship of **Tasneem Selim**, the following contributors played a p
 | Name            | GitHub (if available)  | Contributions                                |
 |-----------------|------------------------|----------------------------------------------|
 | Aya Ehab        | [@ayaehab](https://github.com/AyaEhab27)                       | Pneumonia Detection, Waste Sorting           |
-| Mina Assad      |                 | Facial Expression Recognition                |
-| Kirollos Emad   |                 | Facial Expression Recognition                |
-| Youssef Hanna   |                 | Facial Expression Recognition                |
-| Mario Gamal     |                 | Facial Expression Recognition                |
-| Youssef Awaad   |                 | Facial Expression Recognition                |
-| Mina Wagdy      |                 | Facial Expression Recognition                |
+| Mina Assad      | [@MinaAssad](https://github.com/HarDizzeR)                     | Facial Expression Recognition                |
+| Kirollos Emad   | [@KirollosEmad](https://github.com/kiro314159265359)           | Facial Expression Recognition                |
+| Youssef Hanna   | [@YousseHanna](https://github.com/YoussefHanna64-bit)          | Facial Expression Recognition                |
+| Mario Gamal     | [@MarioGamal](https://github.com/Mario-Gamal-Sobhy)            | Facial Expression Recognition                |
+| Youssef Awaad   | [@YoussefAwaad](https://github.com/00Unlimited00)              | Facial Expression Recognition                |
+| Mina Wagdy      | [MinaWagdy](https://github.com/MinaWagdy228)                   | Facial Expression Recognition                |
 | Ahmed Abu Seada | [@AhmedAbuSeada](https://github.com/ahmedaboseada)             | Skin Cancer Classification                   |
-| Rewan Yasser    |                 | Plant Disease Identification                 |
-| Rana Ashraf     |                 | Plant Disease Identification                 |
-| Doaa Nabil      |                 | Plant Disease Identification                 |
-| Ahmed Mahmoud   |                 | Waste Sorting                                |
+| Rewan Yasser    |                                                                | Plant Disease Identification                 |
+| Rana Ashraf     |                                                                | Plant Disease Identification                 |
+| Doaa Nabil      |                                                                | Plant Disease Identification                 |
+| Ahmed Mahmoud   |                                                                | Waste Sorting                                |
 | Belal Adel      | [@BelalAdel](https://github.com/CW4Sniper)                     | Waste Sorting                                |
 | Omar Mohammed   | [@OmarMohammed](https://github.com/Omarmohamed292)             | Waste Sorting                                |
 | Zaid Nagah      | [@ziadNagah](https://github.com/ziad-nagah)                    | Waste Sorting                                |
 | Bassem Hazem    | [@BassemHazem](https://github.com/BassemHazemDev)              | Fingerprint Recognition, Pneumonia Detection |
 | Amira Ahmed     | [@AmiraAhmed](https://github.com/AmiraAhmedDev)                | Fingerprint Recognition, Pneumonia Detection |
-| Shrouk Mohamed  |                 | Fingerprint Recognition, Pneumonia Detection |
-| Ahmed Mamdouh   |                 | Fingerprint Recognition, Pneumonia Detection |
-| Moataz Emad     |                 | Fingerprint Recognition, Pneumonia Detection |
+| Shrouk Mohamed  |                                                                | Fingerprint Recognition, Pneumonia Detection |
+| Ahmed Mamdouh   |                                                                | Fingerprint Recognition, Pneumonia Detection |
+| Moataz Emad     |                                                                | Fingerprint Recognition, Pneumonia Detection |
 
 To each of you: thank you for your hard work, your curiosity, and your trust in the learning process. Your contributions will continue to inspire learners and researchers around the world.
 
