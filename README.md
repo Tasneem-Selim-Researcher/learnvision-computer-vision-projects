@@ -42,10 +42,10 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 
 | Project | Model | Accuracy |
 |--------|-------------|----------|
-| **Skin Cancer Classification**   | Xception                                               | 85% |
-| **Sequential CNN for Pneumonia** | Lightweight model - Custom CNN                         | 93.59% |
-| **Pneumonia Detection**          |  Xception                                              | 95.66% |
-| **Sequential CNN for Pneumonia** | Sequential CNN, with skip connection and squeeze block | 95.19% |
+| **Skin Cancer Classification**| Xception                                               | 85% |
+| **Chest X-Ray - Pneumonia**   | Lightweight model - Custom CNN                         | 93.59% |
+| **Chest X-Ray - Pneumonia**   | Xception                                              | 95.66% |
+| **Chest X-Ray - Pneumonia**   | Sequential CNN, with skip connection and squeeze block | 95.19% |
 
 ---
 
