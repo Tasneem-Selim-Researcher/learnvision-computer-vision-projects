@@ -6,7 +6,7 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 > **🔬 Focus Areas**: Healthcare, Environmental Conservation, Human-Centered AI, Biometrics  
 > **🎓 Audience**: Beginners, educators, and researchers  
 > **🤝 Mentorship**: All projects were developed under structured supervision to ensure educational value and research quality.
-6 different data
+6 different datasets
 ---
 
 ## 🧠 Why LearnVision?
