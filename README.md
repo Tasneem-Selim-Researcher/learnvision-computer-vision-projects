@@ -85,7 +85,7 @@ Under the mentorship of **Tasneem Selim**, the following contributors played a p
 | Youssef Hanna   | [@YousseHanna](https://github.com/YoussefHanna64-bit)          | Facial Expression Recognition                |
 | Mario Gamal     | [@MarioGamal](https://github.com/Mario-Gamal-Sobhy)            | Facial Expression Recognition                |
 | Youssef Awaad   | [@YoussefAwaad](https://github.com/00Unlimited00)              | Facial Expression Recognition                |
-| Mina Wagdy      | [MinaWagdy](https://github.com/MinaWagdy228)                   | Facial Expression Recognition                |
+| Mina Wagdy      | [@MinaWagdy](https://github.com/MinaWagdy228)                  | Facial Expression Recognition                |
 | Ahmed Abu Seada | [@AhmedAbuSeada](https://github.com/ahmedaboseada)             | Skin Cancer Classification                   |
 | Rewan Yasser    |                                                                | Plant Disease Identification                 |
 | Rana Ashraf     |                                                                | Plant Disease Identification                 |
