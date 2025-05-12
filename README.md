@@ -18,7 +18,7 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 
 ## 📂 Project Categories & Descriptions
 
-### 🧬 Biometrics (One-Shot Learning) (1 Project)
+### 🧬 Biometrics - One-Shot Learning (1 Project)
 - Dataset: [Sokoto Coventry Fingerprint Dataset - SOCOFing](https://www.kaggle.com/datasets/ruizgara/socofing)
 
 | Project | Description | Accuracy |
