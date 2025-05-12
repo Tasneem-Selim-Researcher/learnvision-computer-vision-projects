@@ -18,15 +18,33 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 
 ## 📂 Project Categories & Descriptions
 
+### 🧬 Biometrics (One-Shot Learning) (1 Project)
+- Dataset: [Sokoto Coventry Fingerprint Dataset - SOCOFing](https://www.kaggle.com/datasets/ruizgara/socofing)
+
+| Project | Description | Accuracy |
+|--------|-------------|----------|
+| **Fingerprint Recognition** | Siamese network for one-shot fingerprint matching | 99.53% |
+
+---
+
+### 😊 Human-Centered AI (1 Project)
+- Dataset: [CK+ Dataset](https://www.kaggle.com/datasets/davilsena/ckdataset)
+
+| Project | Description | Accuracy |
+|--------|-------------|----------|
+| **Facial Expression Recognition** | Custom CNN trained on CK+ dataset | 96.05% |
+
+---
+
 ### 🩺 Healthcare and Medical Imaging (4 Projects)
 - Dataset: [Chest X-Ray Images - Pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 - Dataset: [Skin Cancer MNIST- HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) 
 
 | Project | Model | Accuracy |
 |--------|-------------|----------|
-| **Sequential CNN for Pneumonia** | Lightweight model - Custom CNN | 93.59% |
-| **Skin Cancer Classification** | HAM10000 dataset using Xception | 85% |
-| **Pneumonia Detection** |  Xception | 95.66% |
+| **Skin Cancer Classification**   | Xception                                               | 85% |
+| **Sequential CNN for Pneumonia** | Lightweight model - Custom CNN                         | 93.59% |
+| **Pneumonia Detection**          |  Xception                                              | 95.66% |
 | **Sequential CNN for Pneumonia** | Sequential CNN, with skip connection and squeeze block | 95.19% |
 
 ---
@@ -37,28 +55,13 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 
 | Project | Description | Accuracy |
 |--------|-------------|----------|
-| **Waste Sorting** | DenseNet and EfficientNet B0 for material classification | 91% / 92.76% |
-| **Plant Disease Identification** | EfficientNet B0 on crop leaf diseases | 99% |
+| **Waste Sorting**                | DenseNet201    | 91.64% |
+| **Waste Sorting**                | EfficientNet B0| 92.76% |
+| **Plant Disease Identification** | EfficientNet B0| 99.06% |
 
 ---
 
-### 😊 Human-Centered AI (1 Project)
-- Dataset: [CK+ Dataset](https://www.kaggle.com/datasets/davilsena/ckdataset)
 
-| Project | Description | Accuracy |
-|--------|-------------|----------|
-| **Facial Expression Recognition** | Custom CNN trained on CK+ dataset | 96% |
-
----
-
-### 🧬 Biometrics (One-Shot Learning) (1 Project)
-- Dataset: [Sokoto Coventry Fingerprint Dataset - SOCOFing](https://www.kaggle.com/datasets/ruizgara/socofing)
-
-| Project | Description | Accuracy |
-|--------|-------------|----------|
-| **Fingerprint Recognition** | Siamese network for one-shot fingerprint matching | 99% |
-
----
 
 ## 🚀 Getting Started
 
