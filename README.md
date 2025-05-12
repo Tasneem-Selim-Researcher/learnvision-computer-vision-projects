@@ -1,12 +1,12 @@
 # 📘 LearnVision: Computer Vision Projects
-_A curated collection of 9 real-world, open-source computer vision projects across 6 key themes._
+_A curated collection of 9 real-world, open-source computer vision projects across 4 key themes, using 6 different datasets._
 
 Welcome to **LearnVision**, a comprehensive, open-source repository of **9 computer vision projects** developed under the academic mentorship of **Tasneem Selim**. These projects cover a range of impactful domains and are designed to help students, educators, and researchers explore **applied deep learning** through hands-on coding.
 
 > **🔬 Focus Areas**: Healthcare, Environmental Conservation, Human-Centered AI, Biometrics  
 > **🎓 Audience**: Beginners, educators, and researchers  
 > **🤝 Mentorship**: All projects were developed under structured supervision to ensure educational value and research quality.
-
+6 different data
 ---
 
 ## 🧠 Why LearnVision?
