@@ -71,7 +71,7 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
    
 # 👥 Contributors
 
-This repository is more than just a collection of code — it represents a shared learning experience built on mentorship, creativity, and determination. Each project reflects the dedication, curiosity, and collaborative spirit of an exceptional group of students I had the honor to guide.
+This repository is more than just a collection of code — it represents a shared learning experience built on mentorship, creativity, and determination. Each project reflects the dedication and collaborative spirit of an exceptional group of students I had the honor to guide.
 
 Under the mentorship of **Tasneem Selim**, the following contributors played a pivotal role in shaping this repository. Their hands-on involvement in real-world computer vision problems exemplifies both technical skill and a strong passion for applied AI.
 
