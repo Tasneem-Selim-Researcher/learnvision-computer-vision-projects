@@ -18,15 +18,16 @@ Welcome to **LearnVision**, a comprehensive, open-source repository of **9 compu
 
 ## 📂 Project Categories & Descriptions
 
-### 🩺 Healthcare and Medical Imaging (3 Projects)
+### 🩺 Healthcare and Medical Imaging (4 Projects)
 - Dataset: [Chest X-Ray Images - Pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 - Dataset: [Skin Cancer MNIST- HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) 
 
-| Project | Description | Accuracy |
+| Project | Model | Accuracy |
 |--------|-------------|----------|
-| **Pneumonia Detection** | Chest X-rays using custom CNN & Xception | 93% (CNN), 95.66% (Xception) |
+| **Sequential CNN for Pneumonia** | Lightweight model - Custom CNN | 93.59% |
 | **Skin Cancer Classification** | HAM10000 dataset using Xception | 85% |
-| **Sequential CNN for Pneumonia** | Lightweight model for limited-resource devices | 93.59% |
+| **Pneumonia Detection** |  Xception | 95.66% |
+| **Sequential CNN for Pneumonia** | Sequential CNN, with skip connection and squeeze block | 95.19% |
 
 ---
 
