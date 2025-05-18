@@ -96,7 +96,7 @@ Under the mentorship of **Tasneem Selim**, the following contributors played a p
 | Zaid Nagah      | [@ziadNagah](https://github.com/ziad-nagah)                    | Waste Sorting                                |
 | Bassem Hazem    | [@BassemHazem](https://github.com/BassemHazemDev)              | Fingerprint Recognition, Pneumonia Detection |
 | Amira Ahmed     | [@AmiraAhmed](https://github.com/AmiraAhmedDev)                | Fingerprint Recognition, Pneumonia Detection |
-| Shrouk Mohamed  |                                                                | Fingerprint Recognition, Pneumonia Detection |
+| Shrouk Mohamed  | [@shroukMohamed](https://github.com/shroukali12)               | Fingerprint Recognition, Pneumonia Detection |
 | Ahmed Mamdouh   |                                                                | Fingerprint Recognition, Pneumonia Detection |
 | Moataz Emad     |                                                                | Fingerprint Recognition, Pneumonia Detection |
 
