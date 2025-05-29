@@ -106,7 +106,7 @@ To each of you: thank you for your hard work, your curiosity, and your trust in 
 
 ## 👩‍💻 Author   
 **Tasneem Selim**  
-AI Researcher | Computer Vision Mentor | PhD Applicant    
+AI Researcher | Computer Vision Mentor   
 
 - 🔬 [Google Scholar](https://scholar.google.com/citations?user=qrbLDz4AAAAJ&hl=en)  
 
